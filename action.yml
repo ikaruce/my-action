@@ -3,6 +3,5 @@ runs:
   using: "composite"
   steps:
     - name 
-      runs: |
-        echo "Hi, I'm my-action!"
+      runs: echo "Hi, I'm my-action!"
       
