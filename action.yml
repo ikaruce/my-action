@@ -2,6 +2,7 @@ name: my-action
 runs:
   using: "composite"
   steps:
-    - run: |
-      echo "Hi, I'm my-action!"
+    - name 
+      run: |
+        echo "Hi, I'm my-action!"
       
