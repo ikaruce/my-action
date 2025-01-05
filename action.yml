@@ -2,6 +2,6 @@ name: Calc Action
 runs:
   using: "composite"
   steps:
-    - run: echo "Hi, I'm a calculator action!"
+    - run: echo "한글 출력해보기"
       shell: powershell
       
