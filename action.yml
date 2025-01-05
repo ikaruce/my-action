@@ -3,5 +3,5 @@ runs:
   using: "composite"
   steps:
     - run: echo "Hi, I'm a calculator action!"
-      shell: pwsh
+      shell: powershell
       
